@@ -6,6 +6,46 @@
 <description>La tecnologia che conta, in breve.</description>
 <language>it</language>
 <item>
+<title>PROVA 3: tutti gli elementi (non pubblicare)</title>
+<link>https://longstoryshorttech.github.io/prova-3.html</link>
+<guid isPermaLink="false">lss-prova-3</guid>
+<pubDate>Sun, 27 Sep 2026 18:05:14 +0000</pubDate>
+<description>Prova di tutti gli elementi: immagini, video, incorporati, tabelle.</description>
+<enclosure url="https://longstoryshorttech.github.io/media/avatar.png" type="image/png" length="0"/>
+<content:encoded><![CDATA[<h2>Titolo di sezione (h2)</h2>
+<p>Testo con <strong>grassetto</strong>, <em>corsivo</em>, un <a href="https://www.ilpost.it">link</a> e una emoji 🚀.</p>
+<h3>Sottotitolo (h3)</h3>
+<ul><li>Elenco puntato uno</li><li>Elenco puntato due</li></ul>
+<ol><li>Elenco numerato uno</li><li>Elenco numerato due</li></ol>
+<blockquote><p>Una citazione in blocco.</p></blockquote>
+<p>Immagine quadrata qui sotto:</p>
+<figure><img src="https://longstoryshorttech.github.io/media/avatar.png" alt="Avatar di prova" width="540"/><figcaption>Didascalia dell'immagine</figcaption></figure>
+<p>Immagine verticale (una carta del carosello):</p>
+<img src="https://longstoryshorttech.github.io/media/carta.jpg" alt="Carta di prova"/>
+<hr/>
+<p>Video caricato come file (tag video):</p>
+<video controls src="https://longstoryshorttech.github.io/media/reel.mp4" width="360"></video>
+<p>Link diretto al video: <a href="https://longstoryshorttech.github.io/media/reel.mp4">guarda il Reel</a></p>
+<p>Video YouTube incorporato (iframe):</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jNQXAC9IVRw" frameborder="0" allowfullscreen></iframe>
+<p>Link YouTube da solo su una riga:</p>
+<p>https://www.youtube.com/watch?v=jNQXAC9IVRw</p>
+<p>TikTok incorporato (blockquote ufficiale):</p>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@tiktok/video/7106594312292453675" data-video-id="7106594312292453675"><section><a href="https://www.tiktok.com/@tiktok">@tiktok</a></section></blockquote>
+<p>Instagram incorporato (blockquote ufficiale):</p>
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C0/"><a href="https://www.instagram.com/p/C0/">Post Instagram</a></blockquote>
+<p>Post X incorporato:</p>
+<blockquote class="twitter-tweet"><a href="https://twitter.com/jack/status/20">tweet</a></blockquote>
+<p>Pulsante di iscrizione (link al modulo):</p>
+<p><a href="https://longstoryshorttech.substack.com/subscribe" class="button">Iscriviti</a></p>
+<p>Tabella:</p>
+<table><tr><th>Colonna A</th><th>Colonna B</th></tr><tr><td>1</td><td>2</td></tr></table>
+<p>Codice: <code>print("ciao")</code></p>
+<p>Nota a piè di pagina<sup>1</sup>.</p>
+<p>Audio (tag audio):</p>
+<audio controls src="https://longstoryshorttech.github.io/media/reel.mp4"></audio>]]></content:encoded>
+</item>
+<item>
 <title>PROVA 2 di importazione (non pubblicare)</title>
 <link>https://longstoryshorttech.github.io/prova-2.html</link>
 <guid isPermaLink="false">lss-prova-2</guid>
